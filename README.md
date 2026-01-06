@@ -120,7 +120,7 @@ The dashboard integrates rainfall, temperature, humidity, and wind speed metrics
 
 ---
 
-## 👤 Author
+##  Author
 *YADDANAPUDI V S S SURYA TEJA*  
 Power BI | Data Analytics | Weather & Climate Analysis
 
