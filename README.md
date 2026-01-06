@@ -124,6 +124,3 @@ The dashboard integrates rainfall, temperature, humidity, and wind speed metrics
 *YADDANAPUDI V S S SURYA TEJA*  
 Power BI | Data Analytics | Weather & Climate Analysis
 
----
-
-## 📁 Repository Structure
